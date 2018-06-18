@@ -1,0 +1,7 @@
+*.ipynb
+.ipynb_checkpoints
+.idea
+boar
+crow
+monkey
+.DS_Store
